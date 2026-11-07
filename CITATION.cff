@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Mahua leaf binary health classification: grouped split and multi-seed evaluation code"
+authors:
+  - family-names: "Beştaş"
+    given-names: "Mansur"
+    affiliation: "Bitlis Eren University"
+version: "1.0.0"
+license: MIT
+date-released: "2026-11-07"

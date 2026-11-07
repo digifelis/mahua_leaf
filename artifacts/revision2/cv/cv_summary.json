@@ -1,0 +1,72 @@
+{
+ "fold0": {
+  "train": {
+   "total": 1708,
+   "healthy": 278
+  },
+  "val": {
+   "total": 397,
+   "healthy": 60
+  },
+  "test": {
+   "total": 527,
+   "healthy": 86
+  }
+ },
+ "fold1": {
+  "train": {
+   "total": 1709,
+   "healthy": 272
+  },
+  "val": {
+   "total": 396,
+   "healthy": 68
+  },
+  "test": {
+   "total": 527,
+   "healthy": 84
+  }
+ },
+ "fold2": {
+  "train": {
+   "total": 1710,
+   "healthy": 276
+  },
+  "val": {
+   "total": 396,
+   "healthy": 66
+  },
+  "test": {
+   "total": 526,
+   "healthy": 82
+  }
+ },
+ "fold3": {
+  "train": {
+   "total": 1708,
+   "healthy": 270
+  },
+  "val": {
+   "total": 399,
+   "healthy": 67
+  },
+  "test": {
+   "total": 525,
+   "healthy": 87
+  }
+ },
+ "fold4": {
+  "train": {
+   "total": 1709,
+   "healthy": 275
+  },
+  "val": {
+   "total": 396,
+   "healthy": 64
+  },
+  "test": {
+   "total": 527,
+   "healthy": 85
+  }
+ }
+}

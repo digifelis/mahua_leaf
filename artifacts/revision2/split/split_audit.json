@@ -1,0 +1,65 @@
+{
+  "images_on_disk": 2695,
+  "annotated_images_used": 2632,
+  "images_without_annotation_excluded": 63,
+  "pre_augmented_copies": 1083,
+  "unique_base_images": 1549,
+  "perceptual_pairs_total": 418,
+  "perceptual_pairs_between_different_stems": 298,
+  "final_groups": 1353,
+  "largest_group": 12,
+  "mixed_label_groups": 15,
+  "old_split_summary": {
+    "train": {
+      "total": 1842,
+      "healthy": 297,
+      "unhealthy": 1545
+    },
+    "val": {
+      "total": 395,
+      "healthy": 63,
+      "unhealthy": 332
+    },
+    "test": {
+      "total": 395,
+      "healthy": 64,
+      "unhealthy": 331
+    }
+  },
+  "old_split_leakage": {
+    "groups_crossing_splits": 519,
+    "test_images_with_partner_elsewhere": 302,
+    "val_images_with_partner_elsewhere": 323,
+    "test_images_whose_aug_twin_is_in_another_split": 275
+  },
+  "new_split_summary": {
+    "train": {
+      "total": 1837,
+      "healthy": 296,
+      "unhealthy": 1541
+    },
+    "val": {
+      "total": 397,
+      "healthy": 63,
+      "unhealthy": 334
+    },
+    "test": {
+      "total": 398,
+      "healthy": 65,
+      "unhealthy": 333
+    }
+  },
+  "new_split_leakage": {
+    "groups_crossing_splits": 0,
+    "test_images_with_partner_elsewhere": 0,
+    "val_images_with_partner_elsewhere": 0
+  },
+  "params": {
+    "dataset_dir": "dataset",
+    "output": "artifacts\\revision2\\split\\grouped_split.json",
+    "seed": "42",
+    "max_dhash": "2",
+    "max_phash": "6",
+    "min_correlation": "0.985"
+  }
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.matplotlib/
+dataset/
+*.pt
+*.pth
+artifacts/**/best.pt

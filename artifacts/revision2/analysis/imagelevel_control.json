@@ -1,0 +1,7 @@
+{
+ "resnet50": "0.886 ± 0.041",
+ "convnext_tiny": "0.884 ± 0.041",
+ "resnet50_roc_auc": "0.939 ± 0.027",
+ "convnext_tiny_roc_auc": "0.943 ± 0.025",
+ "verdict": "close to the values of the original submission (0.861–0.872) and about 0.14–0.16 higher than with the grouped split (0.742 and 0.725). Most of the difference is therefore caused by leakage through the image-level split rather than by the revised training protocol."
+}
