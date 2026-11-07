@@ -8,3 +8,5 @@ authors:
 version: "1.0.0"
 license: MIT
 date-released: "2026-11-07"
+doi: "10.5281/zenodo.24038678"
+repository-code: "https://github.com/digifelis/mahua_leaf"

@@ -1,5 +1,7 @@
 # mahua_leaf
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24038678.svg)](https://doi.org/10.5281/zenodo.24038678)
+
 Leakage-controlled, multi-seed evaluation of transfer learning for **binary health classification of Mahua leaf
 images** (Healthy vs. Unhealthy) under class imbalance.
 
@@ -152,4 +154,9 @@ A3 = weighted sampling, Youden J. Confidence intervals: 2,000 image-level bootst
 
 ## License
 
-MIT (see `LICENSE`). Citation metadata: `CITATION.cff`.
+MIT (see `LICENSE`).
+
+## Citation
+
+Archived at Zenodo: https://doi.org/10.5281/zenodo.24038678 (all versions; v1.0.0: https://doi.org/10.5281/zenodo.24038679).
+Citation metadata: `CITATION.cff`.
